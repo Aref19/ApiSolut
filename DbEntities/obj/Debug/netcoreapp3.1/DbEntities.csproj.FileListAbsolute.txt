@@ -1,0 +1,12 @@
+C:\Users\omare\RiderProjects\ApiSolut\DbEntities\bin\Debug\netcoreapp3.1\DbEntities.deps.json
+C:\Users\omare\RiderProjects\ApiSolut\DbEntities\bin\Debug\netcoreapp3.1\DbEntities.dll
+C:\Users\omare\RiderProjects\ApiSolut\DbEntities\bin\Debug\netcoreapp3.1\DbEntities.pdb
+C:\Users\omare\RiderProjects\ApiSolut\DbEntities\obj\Debug\netcoreapp3.1\DbEntities.csprojAssemblyReference.cache
+C:\Users\omare\RiderProjects\ApiSolut\DbEntities\obj\Debug\netcoreapp3.1\DbEntities.csproj.CoreCompileInputs.cache
+C:\Users\omare\RiderProjects\ApiSolut\DbEntities\obj\Debug\netcoreapp3.1\DbEntities.AssemblyInfoInputs.cache
+C:\Users\omare\RiderProjects\ApiSolut\DbEntities\obj\Debug\netcoreapp3.1\DbEntities.AssemblyInfo.cs
+C:\Users\omare\RiderProjects\ApiSolut\DbEntities\obj\Debug\netcoreapp3.1\DbEntities.dll
+C:\Users\omare\RiderProjects\ApiSolut\DbEntities\obj\Debug\netcoreapp3.1\DbEntities.pdb
+C:\Users\omare\RiderProjects\ApiSolut\DbEntities\bin\Debug\netcoreapp3.1\DbEntities.runtimeconfig.json
+C:\Users\omare\RiderProjects\ApiSolut\DbEntities\bin\Debug\netcoreapp3.1\DbEntities.runtimeconfig.dev.json
+C:\Users\omare\RiderProjects\ApiSolut\DbEntities\obj\Debug\netcoreapp3.1\DbEntities.genruntimeconfig.cache
