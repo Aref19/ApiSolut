@@ -1,0 +1,12 @@
+C:\Users\omare\RiderProjects\ApiSolut\Migrations\obj\Debug\netcoreapp3.1\Migrations.csprojAssemblyReference.cache
+C:\Users\omare\RiderProjects\ApiSolut\Migrations\obj\Debug\netcoreapp3.1\Migrations.csproj.CoreCompileInputs.cache
+C:\Users\omare\RiderProjects\ApiSolut\Migrations\obj\Debug\netcoreapp3.1\Migrations.AssemblyInfoInputs.cache
+C:\Users\omare\RiderProjects\ApiSolut\Migrations\obj\Debug\netcoreapp3.1\Migrations.AssemblyInfo.cs
+C:\Users\omare\RiderProjects\ApiSolut\Migrations\bin\Debug\netcoreapp3.1\Migrations.deps.json
+C:\Users\omare\RiderProjects\ApiSolut\Migrations\bin\Debug\netcoreapp3.1\Migrations.dll
+C:\Users\omare\RiderProjects\ApiSolut\Migrations\bin\Debug\netcoreapp3.1\Migrations.pdb
+C:\Users\omare\RiderProjects\ApiSolut\Migrations\bin\Debug\netcoreapp3.1\DbEntities.dll
+C:\Users\omare\RiderProjects\ApiSolut\Migrations\bin\Debug\netcoreapp3.1\DbEntities.pdb
+C:\Users\omare\RiderProjects\ApiSolut\Migrations\obj\Debug\netcoreapp3.1\Migrations.csproj.CopyComplete
+C:\Users\omare\RiderProjects\ApiSolut\Migrations\obj\Debug\netcoreapp3.1\Migrations.dll
+C:\Users\omare\RiderProjects\ApiSolut\Migrations\obj\Debug\netcoreapp3.1\Migrations.pdb
