@@ -1,9 +1,0 @@
-C:\Users\omare\RiderProjects\ApiSolut\DbEntities\bin\Debug\netcoreapp3.0\DbEntities.deps.json
-C:\Users\omare\RiderProjects\ApiSolut\DbEntities\bin\Debug\netcoreapp3.0\DbEntities.dll
-C:\Users\omare\RiderProjects\ApiSolut\DbEntities\bin\Debug\netcoreapp3.0\DbEntities.pdb
-C:\Users\omare\RiderProjects\ApiSolut\DbEntities\obj\Debug\netcoreapp3.0\DbEntities.csprojAssemblyReference.cache
-C:\Users\omare\RiderProjects\ApiSolut\DbEntities\obj\Debug\netcoreapp3.0\DbEntities.csproj.CoreCompileInputs.cache
-C:\Users\omare\RiderProjects\ApiSolut\DbEntities\obj\Debug\netcoreapp3.0\DbEntities.AssemblyInfoInputs.cache
-C:\Users\omare\RiderProjects\ApiSolut\DbEntities\obj\Debug\netcoreapp3.0\DbEntities.AssemblyInfo.cs
-C:\Users\omare\RiderProjects\ApiSolut\DbEntities\obj\Debug\netcoreapp3.0\DbEntities.dll
-C:\Users\omare\RiderProjects\ApiSolut\DbEntities\obj\Debug\netcoreapp3.0\DbEntities.pdb

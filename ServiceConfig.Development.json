@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "default": "Server=localhost,1433;Database=AppDb;User=SA;Password=MyStrong5062!Password"
+  }
+}
